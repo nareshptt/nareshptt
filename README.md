@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 💬 Ask me about ** iOS,Android, MERN Stack,flutter **
+- 💬 Ask me about ** iOS,Android, MERN Stack,Flutter **
 
 - 💬 MERN Project **(https://major-k6y9.onrender.com/listings)**
 - 💬 Portfolio ([https://nareshptt.github.io/Portfolio-Web/](https://nareshptt.github.io/Portfolio-Website/))
