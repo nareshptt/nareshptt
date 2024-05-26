@@ -11,7 +11,6 @@
 - 💬 Ask me about ** iOS,Android, MERN Stack,Flutter **
 
 - 💬 MERN Project **(https://major-k6y9.onrender.com/listings)**
-- 💬 Portfolio ([https://nareshptt.github.io/Portfolio-Web/](https://nareshptt.github.io/Portfolio-Website/))
 - 📫 How to reach me **knaresh7363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
