@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **iOS Development**
 
 - 💬 Ask me about ** iOS,Android, MERN Stack,Flutter **
-
+- 💬 Portfolio **(https://nareshptt.github.io/Portfolio/)**
 - 💬 MERN Project **(https://major-k6y9.onrender.com/listings)**
 - 📫 How to reach me **knaresh7363@gmail.com**
 
