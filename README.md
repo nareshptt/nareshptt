@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Naresh kumar</h1>
-<h3 align="center">Passionate about Android and iOS Development! 🚀 Sharpening my skills and expanding my horizons in the world of mobile app development. || MERN Stack || Full-Stack Developer</h3>
+<h3 align="center">Mobile App Developer📲✧₊⁺
+
+Cross-platform developer building high-performing apps with Flutter, delivering fast, responsive, and scalable solutions for iOS and Android. Also, an iOS app developer with expertise in Swift, SwiftUI and Xcode, crafting elegant, user-friendly apps with seamless experiences. || MERN Stack || Full-Stack Developer</h3>
 <img align= "right" alt="Coding" width= "400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshptt&label=Profile%20views&color=0e75b6&style=flat" alt="nareshptt" /> </p>
 
