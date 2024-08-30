@@ -17,35 +17,10 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
 
-<table <style>
-    /* Make the table responsive */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    /* Style the table cells */
-    td {
-      border: 1px solid #ddd;
-      padding: 10px;
-      text-align: left;
-    }
-
-    /* Media query for small screens (max-width: 768px) */
-    @media only screen and (max-width: 768px) {
-      /* Make the table rows stack vertically */
-      tr {
-        display: block;
-        margin-bottom: 20px;
-      }
-      /* Make the table cells full-width */
-      td {
-        display: block;
-        width: 100%;
-        margin-bottom: 10px;
-      }
-    }
-  </style>>
+<table style="
+    width: 100%;
+    border-collapse: collapse;
+  ">
   <thead>
     <tr>
       <th>Languages and Tools</th>
