@@ -22,26 +22,7 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            text-align: left;
-        }
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            width: 16.66%; /* Ensures each cell covers 1/6th of the row width */
-        }
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
+    
 </head>
 <body>
 <table>
