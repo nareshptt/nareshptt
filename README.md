@@ -89,20 +89,17 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
       <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a></td>
     </tr>
     <tr>
-      <td>PHP</td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></td>
-      <td><a href="https://www.php.net" target="_blank" rel="noreferrer">PHP</a></td>
       <td>React</td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
       <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
       <td>Swift</td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></td>
       <td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a></td>
-    </tr>
-    <tr>
       <td>Tailwind CSS</td>
       <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
       <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a></td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td></td>
