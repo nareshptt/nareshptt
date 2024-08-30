@@ -17,15 +17,7 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://linkedin.com/in/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nareshptt" height="30" width="40" /></a>
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <br>
+
 <table>
   <thead>
     <tr>
@@ -120,8 +112,7 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
     </tr>
   </tbody>
 </table>
-</body>
-</html>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshptt&show_icons=true&locale=en&layout=compact" alt="nareshptt" /></p>
