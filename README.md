@@ -17,7 +17,7 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
 
-<table>
+<table style="width:100%; overflow-x: auto;">
   <thead>
     <tr>
       <th>Languages and Tools</th>
