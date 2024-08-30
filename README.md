@@ -1,6 +1,3 @@
-Here's a cleaner and more organized version of your profile:
-
-```html
 <h1 align="center">Hi 👋, I'm Naresh Kumar</h1>
 
 <h3 align="center">Mobile App Developer 📲✧₊⁺</h3>
