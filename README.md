@@ -17,34 +17,7 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://linkedin.com/in/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nareshptt" height="30" width="40" /></a>
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            text-align: left;
-            margin-top: 20px; /* Adds space from the top */
-        }
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            width: 11.11%; /* Each cell now takes 1/9th of the width */
-        }
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
-</head>
-<body>
+
 <table>
   <thead>
     <tr>
@@ -116,9 +89,6 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
       <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a></td>
     </tr>
     <tr>
-      <td>PHP</td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></td>
-      <td><a href="https://www.php.net" target="_blank" rel="noreferrer">PHP</a></td>
       <td>React</td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
       <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
@@ -139,10 +109,6 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
     </tr>
   </tbody>
 </table>
-</body>
-</html>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshptt&show_icons=true&locale=en&layout=compact" alt="nareshptt" /></p>
 
