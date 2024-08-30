@@ -17,9 +17,69 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
 <table style="
-    width: 100%;
-    border-collapse: collapse;
-  ">
+    
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #f4f4f4;
+    }
+
+    img {
+      vertical-align: middle;
+    }
+
+    @media (max-width: 768px) {
+      thead {
+        display: none;
+      }
+
+      tr {
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      td {
+        display: block;
+        text-align: right;
+        position: relative;
+        padding-left: 50%;
+      }
+
+      td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 50%;
+        padding-left: 10px;
+        white-space: nowrap;
+        font-weight: bold;
+        background-color: #f4f4f4;
+      }
+
+      td img {
+        margin: 0 auto;
+        display: block;
+      }
+    }
+  
+  "
   <thead>
     <tr>
       <th>Languages and Tools</th>
