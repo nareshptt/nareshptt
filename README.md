@@ -17,7 +17,28 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://linkedin.com/in/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nareshptt" height="30" width="40" /></a>
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Languages and Tools</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
 <table>
   <thead>
     <tr>
@@ -109,6 +130,18 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
     </tr>
     <tr>
       <td>React</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
+      <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></td>
+      <td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a></td>
+    </tr>
+    <tr>
+      <td>Tailwind CSS</td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
+      <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a></
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshptt&show_icons=true&locale=en&layout=compact" alt="nareshptt" /></p>
