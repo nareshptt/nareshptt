@@ -16,185 +16,100 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <a href="https://linkedin.com/in/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nareshptt" height="30" width="40" /></a>
 <a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Languages and Tools</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-    }
-
-    .tools-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-      padding: 20px;
-    }
-
-    .tool-item {
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-      width: 120px;
-      text-align: center;
-      border: 1px solid #ddd;
-      padding: 10px;
-      border-radius: 8px;
-      transition: box-shadow 0.3s;
-      background-color: #fff;
-    }
-
-    .tool-item:hover {
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    .tool-item img {
-      margin-bottom: 8px;
-    }
-
-    .tool-item a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-      font-size: 14px;
-    }
-
-    @media (max-width: 600px) {
-      .tools-container {
-        justify-content: center;
-      }
-
-      .tool-item {
-        width: 100px;
-        padding: 8px;
-      }
-
-      .tool-item a {
-        font-size: 12px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="tools-container">
-    <!-- Android -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">Android</a>
-    </div>
-
-    <!-- Bootstrap -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">Bootstrap</a>
-    </div>
-
-    <!-- CSS3 -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS3</a>
-    </div>
-
-    <!-- Dart -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">Dart</a>
-    </div>
-
-    <!-- Express -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">Express</a>
-    </div>
-
-    <!-- Figma -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>
-    </div>
-
-    <!-- Firebase -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">Firebase</a>
-    </div>
-
-    <!-- Flutter -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">Flutter</a>
-    </div>
-
-    <!-- HTML5 -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">HTML5</a>
-    </div>
-
-    <!-- Java -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">Java</a>
-    </div>
-
-    <!-- JavaScript -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>
-    </div>
-
-    <!-- Kotlin -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">Kotlin</a>
-    </div>
-
-    <!-- MongoDB -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a>
-    </div>
-
-    <!-- MySQL -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">MySQL</a>
-    </div>
-
-    <!-- Node.js -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a>
-    </div>
-
-    <!-- React -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a>
-    </div>
-
-    <!-- Swift -->
-    <div class="tool-item">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a>
-    </div>
-
-    <!-- Tailwind CSS -->
-    <div class="tool-item">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a>
-    </div>
-  </div>
-</body>
-</html>
-
+<table style="
+    width: 100%;
+    border-collapse: collapse;
+  ">
+  <thead>
+    <tr>
+      <th>Languages and Tools</th>
+      <th>Icon</th>
+      <th>Link</th>
+      <th>Languages and Tools</th>
+      <th>Icon</th>
+      <th>Link</th>
+      <th>Languages and Tools</th>
+      <th>Icon</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Android</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
+      <td><a href="https://developer.android.com" target="_blank" rel="noreferrer">Android</a></td>
+      <td>Bootstrap</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></td>
+      <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">Bootstrap</a></td>
+      <td>CSS3</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
+      <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS3</a></td>
+    </tr>
+    <tr>
+      <td>Dart</td>
+      <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></td>
+      <td><a href="https://dart.dev" target="_blank" rel="noreferrer">Dart</a></td>
+      <td>Express</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
+      <td><a href="https://expressjs.com" target="_blank" rel="noreferrer">Express</a></td>
+      <td>Figma</td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
+      <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a></td>
+    </tr>
+    <tr>
+      <td>Firebase</td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td>
+      <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">Firebase</a></td>
+      <td>Flutter</td>
+      <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
+      <td><a href="https://flutter.dev" target="_blank" rel="noreferrer">Flutter</a></td>
+      <td>HTML5</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
+      <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">HTML5</a></td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
+      <td><a href="https://www.java.com" target="_blank" rel="noreferrer">Java</a></td>
+      <td>JavaScript</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a></td>
+      <td>Kotlin</td>
+      <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></td>
+      <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer">Kotlin</a></td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
+      <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a></td>
+      <td>MySQL</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
+      <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">MySQL</a></td>
+      <td>Node.js</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
+      <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a></td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
+      <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></td>
+      <td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a></td>
+      <td>Tailwind CSS</td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
+      <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshptt&show_icons=true&locale=en&layout=compact" alt="nareshptt" /></p>
 
