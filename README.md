@@ -8,8 +8,8 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **iOS Development**
-- 💬 Ask me about ** iOS,Android, MERN Stack,Flutter **
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about ** iOS,Android and Flutter, MERN Stack,Flutter **
 - 📫 How to reach me **knaresh7363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
