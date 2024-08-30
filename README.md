@@ -18,7 +18,7 @@
 
 <p align="left">
   🌱 I’m currently learning Flutter<br>
-  💬 Ask me about Native iOS, Flutter, and MERN Stack<br>
+  💬 Ask me about Native iOS, Flutter, and MERN Stack ๋࣭ ⭑ <br>
   📫 How to reach me: <a href="mailto:knaresh7363@gmail.com">knaresh7363@gmail.com</a>
 </p>
 
