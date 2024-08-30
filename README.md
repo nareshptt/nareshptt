@@ -8,7 +8,6 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshptt&label=Profile%20views&color=0e75b6&style=flat" alt="nareshptt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Native iOS, Flutter and MERN Stack**
 - 📫 How to reach me **knaresh7363@gmail.com**
