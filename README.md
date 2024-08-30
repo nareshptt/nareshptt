@@ -1,31 +1,56 @@
-<h1 align="center">Hi 👋, I'm Naresh kumar</h1>
+To make your table responsive for a GitHub README, you need to use a combination of HTML and CSS within the constraints of GitHub Markdown. GitHub Markdown doesn’t support full CSS styling, so you'll need to use a more basic approach. Here's how you can adjust the table to make it more responsive:
+
+1. **Use HTML for Table**: You’ll use HTML to create the table, as it offers more control over the layout compared to Markdown tables.
+
+2. **Ensure Table Width**: Set the table width to 100% to make it adapt to different screen sizes.
+
+3. **Use HTML Elements for Styling**: Unfortunately, GitHub’s Markdown doesn’t support external CSS, so you’ll rely on inline styles where possible.
+
+Here's an updated version of your table with basic responsive adjustments:
+
+```html
+<h1 align="center">Hi 👋, I'm Naresh Kumar</h1>
+
 <h3 align="center">Mobile App Developer📲✧₊⁺
 
-Cross-platform developer building high-performing apps with Flutter, delivering fast, responsive, and scalable solutions for iOS and Android. Also, an iOS app developer with expertise in Swift, SwiftUI and Xcode, crafting elegant, user-friendly apps with seamless experiences. || MERN Stack || Full-Stack Developer</h3>
-<img align= "right" alt="Coding" width= "400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+Cross-platform developer building high-performing apps with Flutter, delivering fast, responsive, and scalable solutions for iOS and Android. Also, an iOS app developer with expertise in Swift, SwiftUI, and Xcode, crafting elegant, user-friendly apps with seamless experiences. || MERN Stack || Full-Stack Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshptt&label=Profile%20views&color=0e75b6&style=flat" alt="nareshptt" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nareshptt&label=Profile%20views&color=0e75b6&style=flat" alt="nareshptt" />
+</p>
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Native iOS, Flutter and MERN Stack**
+- 💬 Ask me about **Native iOS, Flutter, and MERN Stack**
 - 📫 How to reach me **knaresh7363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nareshptt" height="30" width="40" /></a>
-<a href="https://instagram.com/nareshptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshptt" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nareshptt" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nareshptt" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
-<table>
+
+<table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
-      <th>Languages and Tools</th>
+      <th style="text-align: left;">Languages and Tools</th>
       <th>Icon</th>
       <th>Link</th>
-      <th>Languages and Tools</th>
+      <th style="text-align: left;">Languages and Tools</th>
       <th>Icon</th>
       <th>Link</th>
-      <th>Languages and Tools</th>
+      <th style="text-align: left;">Languages and Tools</th>
       <th>Icon</th>
       <th>Link</th>
     </tr>
@@ -91,25 +116,4 @@ Cross-platform developer building high-performing apps with Flutter, delivering 
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
       <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
       <td>Swift</td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></td>
-      <td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a></td>
-      <td>Tailwind CSS</td>
-      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
-      <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshptt&show_icons=true&locale=en&layout=compact" alt="nareshptt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshptt&show_icons=true&locale=en" alt="nareshptt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshptt&" alt="nareshptt" /></p>
+      <td><
