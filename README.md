@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me:
 - 🌱 Currently diving deeper into **Flutter**.
 - 💬 Ask me about **Native iOS**, **Flutter**, and **MERN Stack**.
-- 📫 Reach me at: **[knaresh7363@gmail.com](mailto:knaresh7363@gmail.com)**.
+- 📧 Reach me at: <a href="mailto:knaresh7363@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ### 🌐 Connect with Me:
 <p align="left">
